@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+pillow
+tqdm
+torch
+torchvision
+timm
+scikit-learn
+ftfy
+git+https://github.com/mlfoundations/open_clip.git
+git+https://github.com/openai/CLIP.git
