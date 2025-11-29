@@ -23,7 +23,7 @@ This repository contains assignments that explore state-of-the-art vision-langua
 - Explored zero-shot detection capabilities of pre-trained Grounding DINO without additional training.
 - Implemented prompt learning techniques (CoOp, CoCoOp) to improve detection by learning optimal text prompts.
 - Applied **FixMatch** semi-supervised learning to leverage unlabeled data for enhanced model performance.
-- Evaluated detection quality using **mAP** (mean Average Precision) and conducted qualitative analysis with bounding box visualizations.
+- Evaluated detection quality using **mAP** (mean Average Precision) and conducted qualitative analysis with bounding box visualisations.
 
 ---
 
